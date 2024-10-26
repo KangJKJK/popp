@@ -18,7 +18,7 @@ echo -e "${CYAN}이 봇은 다음과 같은 기능을 갖고 있습니다.${NC}"
 echo -e "${CYAN}웜캐칭 / 에그업그레이드/ 에그크래킹 / 각종 태스크${NC}"
 
 echo -e "${GREEN}설치 옵션을 선택하세요:${NC}"
-echo -e "${YELLOW}1. Bird 봇 새로 설치${NC}"
+echo -e "${YELLOW}1. POPP 봇 새로 설치${NC}"
 echo -e "${YELLOW}2. 재실행하기${NC}"
 read -p "선택: " choice
 
@@ -67,7 +67,7 @@ case $choice in
     ;;
     
   2)
-    echo -e "${GREEN}Bird 봇을 재실행합니다.${NC}"
+    echo -e "${GREEN}POPP 봇을 재실행합니다.${NC}"
     cd "$WORK"
     pip install -r requirements.txt
     python3 main.py
