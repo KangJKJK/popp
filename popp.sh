@@ -14,9 +14,6 @@ echo -e "${GREEN}POPP 봇을 설치합니다.${NC}"
 echo -e "${GREEN}스크립트작성자: https://t.me/kjkresearch${NC}"
 echo -e "${GREEN}출처: https://github.com/Galkurta/Popp-BOT${NC}"
 
-echo -e "${CYAN}이 봇은 다음과 같은 기능을 갖고 있습니다.${NC}"
-echo -e "${CYAN}웜캐칭 / 에그업그레이드/ 에그크래킹 / 각종 태스크${NC}"
-
 echo -e "${GREEN}설치 옵션을 선택하세요:${NC}"
 echo -e "${YELLOW}1. POPP 봇 새로 설치${NC}"
 echo -e "${YELLOW}2. 재실행하기${NC}"
